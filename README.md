@@ -19,10 +19,5 @@ Technologies Used:
 Contributing:
 Contributions are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request.
 
-
-Contact:
-- Email: harshitakohli89@gmail.com
-- LinkedIn: https://www.linkedin.com/in/harshita-kohli-3b226623b/
-
 Disclaimer:
 This portfolio website is a personal project created for learning and demonstration purposes. All content is original unless otherwise stated.
